@@ -1,0 +1,37 @@
+_repo: The-Child-s-WorldThird-Reader_15170
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Browne, Hetty Sibyl
+    alias: Turnipseed, Hetty Sibyl
+    birthdate: 1875
+    deathdate: 1966
+    gutenberg_agent_id: '8836'
+    url: http://www.gutenberg.org/2009/agents/8836
+  - agent_name: Withers, Sarah
+    gutenberg_agent_id: '8835'
+    url: http://www.gutenberg.org/2009/agents/8835
+  - agent_name: Tate, W. K. (William Knox)
+    alias: Tate, William Knox
+    birthdate: 1870
+    deathdate: 1917
+    gutenberg_agent_id: '5899'
+    url: http://www.gutenberg.org/2009/agents/5899
+description: Primer; First reader; Second reader; Third reader; Manual.
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers (Primary)'
+- !lcc 'PE'
+title: 'The Child''s World: Third Reader'
+url: http://www.gutenberg.org/ebooks/15170
