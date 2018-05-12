@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '5899'
     url: http://www.gutenberg.org/2009/agents/5899
 description: Primer; First reader; Second reader; Third reader; Manual.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15170#The-Child-s-WorldThird-Reader
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2005-02-25'
 gutenberg_type: Text
